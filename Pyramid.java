@@ -1,3 +1,8 @@
+/* Pattern shape
+   *
+  * *
+ * * *
+ for every column as increases +1 */
 import java.util.Scanner;
 public class Pyramid {
     public static void main(String[] args){
